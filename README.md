@@ -1,6 +1,6 @@
 ## Hello👋
 
-🚀 Cloud Engineer | AI Strategist | Azure Specialist
+🚀 Cloud Engineer | AI Strategist | Azure Specialist <br>
 👨‍💻 Empowering SMBs with Azure, AI, and automation at scale
 🔷 AI-102 Certified | Azure OpenAI • Cognitive Services • Teams Bots
 ☁️ Azure Functions • VNet • Bicep • App Services • Logic Apps
