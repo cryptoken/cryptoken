@@ -4,4 +4,4 @@
 
 Building AI automation for Microsoft 365 — Copilot Studio, SharePoint governance, Power Platform. Currently focused on practical enterprise AI that works within real security and compliance constraints.
 
-`Azure` `M365` `PowerShell` `Python` `Fortinet`
+`Copilot Studio` `M365` `Power Automate` `PowerShell` `Python` `M365`
